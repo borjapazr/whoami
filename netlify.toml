@@ -8,8 +8,8 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "https://posquit0.netlify.com/*"
-  to = "https://www.posquit0.com/:splat"
+  from = "https://me-marsmachine.netlify.app/*"
+  to = "https://me.marsmachone.space/:splat"
   status = 301
   force = true
 
