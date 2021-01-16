@@ -1,0 +1,19 @@
+[build]
+publish = "public"
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.55.1"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "https://posquit0.netlify.com/*"
+  to = "https://www.posquit0.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 301
