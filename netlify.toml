@@ -9,7 +9,7 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://me-marsmachine.netlify.app/*"
-  to = "https://me.marsmachone.space/:splat"
+  to = "https://me.marsmachine.space/:splat"
   status = 301
   force = true
 
