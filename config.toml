@@ -1,6 +1,6 @@
 theme = "awesome-identity"
 baseURL = "https://me.marsmachine.space"
-title = "Borja Paz Rodríguez | Software Analyst "
+title = "Borja Paz Rodríguez | Software Engineer"
 languageCode = "en-US"
 # Content without language indicator will default to this language
 defaultContentLanguage = "en"
@@ -38,7 +38,7 @@ googleAnalytics = "UA-187507362-1"
 
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
-  description = "Software Analyst at Plexus Tech"
+  description = "Software Engineer at Plexus Tech"
   keywords = "borjapazr, borja, borja.pazrodriguez, borja, paz, rodriguez, devops, backend, infrastructure, frontend, engineer, developer, architect"
   images = [
     "/images/profile.jpg"
@@ -50,7 +50,7 @@ googleAnalytics = "UA-187507362-1"
   portrait = "/images/profile.jpg"
   firstname = "Borja"
   lastname = "Paz Rodríguez"
-  title = "Software Analyst | Addicted to Continuous Learning"
+  title = "Software Engineer | Addicted to Continuous Learning"
   bio = """
   👋🚀 Hi, I'm Borja Paz Rodríguez, **a passionate self-taught software developer** from Spain.
 
