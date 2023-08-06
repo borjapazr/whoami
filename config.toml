@@ -1,5 +1,5 @@
 theme = "awesome-identity"
-baseURL = "https://me.marsmachine.space"
+baseURL = "https://bpaz.dev"
 title = "Borja Paz Rodríguez | Software Engineer"
 languageCode = "en-US"
 # Content without language indicator will default to this language
@@ -40,54 +40,20 @@ hideVacation = false
 [params.meta]
 description = "Software Engineer at Plexus Tech"
 keywords = "borjapazr, borja, borja.pazrodriguez, borja, paz, rodriguez, devops, backend, infrastructure, frontend, engineer, developer, architect"
-images = ["/images/profile.jpg"]
+images = ["/images/profile.png"]
 
 
 ## Profile Configurations
 [params.profile]
-portrait = "/images/profile.jpg"
+bio = """
+  👨‍👩‍👦‍👦 Son of a hairdresser and a farmer
+  🔐 Escape room enthusiast and part of [Skape Squad](https://skapesquad.com)
+  ❤️ Love programming and cinema
+  """
+portrait = "/images/profile.png"
 firstname = "Borja"
 lastname = "Paz Rodríguez"
-title = "Software Engineer | Addicted to Continuous Learning"
-bio = """
-  👋🚀 Hi, I'm Borja Paz Rodríguez, **a passionate self-taught software developer** from Spain.
-
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-  ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=Apache+Spark&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache+Kafka&logoColor=white)
-  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON+Web+Tokens&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-  ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google+Chrome&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-  ![redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-  ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-  ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-  ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-  ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![Brave browser](https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white)
-  ![d3js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-  ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ+IDEA&logoColor=white)
-  ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
-  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white)
-  ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
-  """
+title = "Software Engineer at Plexus Tech"
 
 
 ## Contacts Configurations
@@ -99,7 +65,7 @@ linkedin = "borjapazr"
 # keybase = "borjapazr"
 # facebook = "borjapazr"
 stackoverflow = "6112286"
-# instagram = "borjapazr"
+instagram = "borjapazr"
 # medium = "borjapazr"
 # quora = "borjapazr"
 # dribbble = "borjapazr"
@@ -109,7 +75,7 @@ stackoverflow = "6112286"
 ## Actions Configurations
 [[params.actions]]
 name = "Review My CV"
-url = "https://github.com/borjapazr/resume/blob/main/documentation/resume.pdf"
+url = "https://mnf.red/borjapazr"
 [[params.actions]]
 name = "Ask Me Anything"
 url = "https://github.com/borjapazr/borjapazr/issues"
