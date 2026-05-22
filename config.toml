@@ -38,7 +38,7 @@ hideVacation = false
 
 ## Meta Configurations (HTTP Meta tags & OpenGraph)
 [params.meta]
-description = "Software Engineer at Plexus Tech"
+description = "Software Engineer at Inditex"
 keywords = "borjapazr, borja, borja.pazrodriguez, borja, paz, rodriguez, devops, backend, infrastructure, frontend, engineer, developer, architect"
 images = ["/images/profile.png"]
 
@@ -53,12 +53,12 @@ bio = """
 portrait = "/images/profile.png"
 firstname = "Borja"
 lastname = "Paz Rodríguez"
-title = "Software Engineer at Plexus Tech"
+title = "Software Engineer at Inditex"
 
 
 ## Contacts Configurations
 [params.contacts]
-email = "hello@marsmachine.space"
+email = "borjapazr@gmail.com"
 github = "borjapazr"
 twitter = "borjapazr"
 linkedin = "borjapazr"
@@ -83,7 +83,7 @@ url = "https://github.com/borjapazr/borjapazr/issues"
 
 ## Footer Configurations
 [params.footer]
-copyright = "© 2023 Borja Paz Rodríguez. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+copyright = "© 2026 Borja Paz Rodríguez. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 poweredBy = true
 
 
