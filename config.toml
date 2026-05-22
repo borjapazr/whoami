@@ -46,9 +46,7 @@ images = ["/images/profile.png"]
 ## Profile Configurations
 [params.profile]
 bio = """
-  👨‍👩‍👦‍👦 Son of a hairdresser and a farmer
-  🔐 Escape room enthusiast and part of [Skape Squad](https://skapesquad.com)
-  ❤️ Love programming and cinema
+  🐮 Éche o que hai!
   """
 portrait = "/images/profile.png"
 firstname = "Borja"
